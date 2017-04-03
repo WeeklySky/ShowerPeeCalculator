@@ -7,9 +7,9 @@ import (
 )
 
 func main()  {
-	showerFlowMinute := flag.Float64("shower", 7.9, "Shower water flow in liters per minute.")
+	showerFlowMinute := flag.Float64("shower", 9.5, "Shower water flow in liters per minute.")
 
-	flushFlow := flag.Float64("flush", 6, "Water flow in liters in a single flush.")
+	flushFlow := flag.Float64("flush", 4, "Water flow in liters in a single flush.")
 
 	flag.Parse()
 
