@@ -9,4 +9,6 @@ This is a simple written calculator to measure how much water is actually saved 
 
 ![](http://i.imgur.com/U3LAKiQ.png)
 
-Default data retrieved from ![Home-water-works](www.home-water-works.org)
+Default data retrieved from ![Home-water-works](www.home-water-works.org), however the calculator accepts values based on your shower flow rate and toilet.
+
+![](http://i.imgur.com/TiyTDmA.png)
